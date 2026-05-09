@@ -1,0 +1,17 @@
+TIMESTAMP: [Double Elixir Overtime]
+LOCATION: Blue King's Tower
+
+[!] DEPLOYMENT LOG [!]:
+- A wild HOG RIDER appears at the bridge! (4)
+- The opponent tries to counter with a swarm, but THE LOG rolls through. (2)
+- A massive FIREBALL drops from the sky to clear the path. (4)
+- An ICE SPIRIT jumps, freezing the Princess Tower in its tracks. (1)
+- The brave KNIGHT stands his ground in the center. (3)
+- From the back, the MUSKETEER provides cover fire. (4)
+- A defensive CANNON is placed to distract the Giant. (3)
+- Finally, the humble SKELETONS are cycled to bring the win home. (1)
+
+[DECOY DATA DETECTED - IGNORE BELOW]
+* Pekka is too heavy for this cycle.
+* Golem was left in the collection.
+* Heal Spirit was not used in this Arena.
